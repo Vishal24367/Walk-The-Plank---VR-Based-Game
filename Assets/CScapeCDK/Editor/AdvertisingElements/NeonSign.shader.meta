@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d97896b6345477843a568bf41858bd98
+timeCreated: 1510518292
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _barDIffuse: {fileID: 2800000, guid: b487d90c698d15741a2a95bfcb7373e1, type: 3}
+  - _Texture0: {fileID: 2800000, guid: 21f93145fc69f0b48a7dc4ca3bdde40f, type: 3}
+  - _bar_emissive: {fileID: 2800000, guid: 68ce3b861091ea54494b9af3826dc6c0, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
